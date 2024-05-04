@@ -4,7 +4,7 @@ I'm Maya Le, a 4th-year Mathematics/ Statistics student at the University of Wat
 Other than that, check out some of my projects from the painful 4 years as a Math student!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maya-le-376880203/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maya-le-376880203/) 
 
 ## 👨‍💻 Education: 
 University of Waterloo:

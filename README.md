@@ -1,7 +1,7 @@
 # Hi there 👋
 
-I'm Maya Le, a 4th-year Mathematics/ Statistics student at the University of Waterloo. I've had over 1 year of work experiences in Risk Analytics and Risk Consulting, and 4 years of enduring pain studying statistics. I'm interested in Machine Learning and above all - Probablity Theory. 
-Other than that, check out some of my projects from the painful 4 years!
+I'm Maya Le, a 4th-year Mathematics/ Statistics student at the University of Waterloo. I've had over 1 year of work experiences in Risk Analytics and Risk Consulting at PwC, Munich Re and EY. I'm interested in Machine Learning and above all - Probablity Theory. 
+Other than that, check out some of my projects from the painful 4 years as a Math student!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maya-le-376880203/) 
